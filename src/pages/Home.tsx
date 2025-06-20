@@ -19,7 +19,7 @@ const Home = () => {
       </div>
 
       <div className="px-4 h-[460px] w-[400px]">
-        <img src="/src/assets/home.svg" alt="Imagem home" className="w-full" />
+        <img src="/home.svg" alt="Imagem home" className="w-full" />
       </div>
     </section>
   );
